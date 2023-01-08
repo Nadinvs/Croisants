@@ -1,0 +1,19 @@
+body {
+  display: block;
+  text-align: center;
+  background: rgb(241, 237, 157);
+  margin: 10px;
+}
+h1 {
+  font-weight: bold;
+}
+footer a {
+  padding: 10px;
+  color: rgb(112, 2, 2);
+}
+
+.photo {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 25px auto;
+}
